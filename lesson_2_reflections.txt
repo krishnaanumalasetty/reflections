@@ -1,0 +1,4 @@
+what happens when you initialize a repository? Why do you need to do it?
+
+Initialize -> Creates a .git where it holds all the history files etc. Nothing is committed or tracked.
+
