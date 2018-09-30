@@ -2,3 +2,11 @@ what happens when you initialize a repository? Why do you need to do it?
 
 Initialize -> Creates a .git where it holds all the history files etc. Nothing is committed or tracked.
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is the intermediate area where the files are tracked. Working Directory files are not tracked.
+
+* Lesson 2 - Quiz 10 - 
+
+git reset -hard -> Removes all the changes from your local staging and working directory
